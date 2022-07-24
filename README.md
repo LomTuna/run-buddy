@@ -1,7 +1,7 @@
 # Run-Buddy 
 
 ## Purpose 
-A wessite that offers fitness training services. 
+A website that offers fitness training services. 
 
 ## Built With
 * HTML
