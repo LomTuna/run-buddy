@@ -1,4 +1,4 @@
-# Run Buddy 
+# Run-Buddy 
 
 ## Purpose 
 A wessite that offers fitness training services. 
